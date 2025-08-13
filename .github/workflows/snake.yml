@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"   # runs once a day
   workflow_dispatch:      # allow manual run
 
+permissions:
+  contents: write         # ✅ gives permission to push to branches
+
 jobs:
   build:
     runs-on: ubuntu-latest
