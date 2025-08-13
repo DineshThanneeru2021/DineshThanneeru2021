@@ -34,6 +34,8 @@ I love turning ideas into reality through clean code, modern frameworks, and cre
 
 ### ⚙️ Frameworks  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+### ☁️ Cloud Platforms  
+![AWS](https://img.shields.io/badge/AWS%20Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
 ### 🌐 Web Technologies  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
