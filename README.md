@@ -68,9 +68,9 @@ I love turning ideas into reality through clean code, modern frameworks, and cre
 
 ## 📫 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DineshThanneeru2021)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinesh2023)  
 
 ---
 
-⭐ *"Code is like humor. When you have to explain it, it’s bad."*  
+⭐ *"Turning complex problems into elegant solutions."*  
 
