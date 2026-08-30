@@ -57,12 +57,12 @@ I love turning ideas into reality through clean code, modern frameworks, and cre
 
 ---
 
-## 🐍 Contribution Graph Snake
+<!--## 🐍 Contribution Graph Snake
 > Auto-generated daily with GitHub Actions
 
-<p align="center">
+- <p align="center">
   <img src="https://raw.githubusercontent.com/DineshThanneeru2021/DineshThanneeru2021/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
+--</p> -->
 
 ---
 
